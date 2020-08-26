@@ -3,7 +3,6 @@
 require 'watir'
 require 'getoptlong'
 require 'pry'
-require_relative 'lib/threadpool'
 require_relative 'lib/repl'
 require_relative 'lib/empty'
 
